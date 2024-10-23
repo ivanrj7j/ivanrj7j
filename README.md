@@ -3,7 +3,7 @@
 
 __I'm into AI and data science and have a knack for full-stack web development with AI integrations.__
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/ivanrj7j?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/ivanrj7j?tab=repositories)
 
 - 📫 How to reach me **ivanrj7j@gmail.com**
 
